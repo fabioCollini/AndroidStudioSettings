@@ -1,0 +1,8 @@
+<keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="Android.SyncProject">
+    <keyboard-shortcut first-keystroke="shift meta g" />
+  </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="shift meta b" />
+  </action>
+</keymap>
