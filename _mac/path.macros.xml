@@ -1,6 +1,6 @@
 <application>
   <component name="PathMacrosImpl">
-    <macro name="KOTLIN_BUNDLED" value="/Users/fabio/Library/Application Support/JetBrains/Toolbox/apps/AndroidStudio/ch-0/201.6636797/Android Studio 4.1 Preview.app/Contents/plugins/Kotlin/kotlinc" />
+    <macro name="KOTLIN_BUNDLED" value="/Users/fabio/Library/Application Support/JetBrains/Toolbox/apps/AndroidStudio/ch-0/201.6667167/Android Studio 4.1 Preview.app/Contents/plugins/Kotlin/kotlinc" />
     <macro name="VAULT_TOKEN" value="09c1ae64-0d71-49cb-5743-d621d1a45a91" />
   </component>
 </application>
