@@ -5,4 +5,7 @@
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="ctrl meta alt right" />
+  </action>
 </keymap>
