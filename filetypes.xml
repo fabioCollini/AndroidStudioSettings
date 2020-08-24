@@ -4,9 +4,9 @@
       <mapping ext="webp" type="Image" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern=".graphqlconfig" type="PLAIN_TEXT" />
-      <mapping pattern="all_modules_3" type="PLAIN_TEXT" />
       <mapping pattern="all_modules_2" type="PLAIN_TEXT" />
+      <mapping pattern="all_modules_3" type="PLAIN_TEXT" />
+      <mapping pattern=".graphqlconfig" type="PLAIN_TEXT" />
       <mapping pattern="all_modules" type="PLAIN_TEXT" />
       <mapping ext="processors" type="PLAIN_TEXT" />
     </extensionMap>
