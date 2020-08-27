@@ -11,6 +11,9 @@
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
+  <action id="MakeGradleModule">
+    <keyboard-shortcut first-keystroke="ctrl meta alt r" />
+  </action>
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="ctrl meta alt right" />
   </action>
