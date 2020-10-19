@@ -1,0 +1,9 @@
+<templateSet group="Kotlin">
+  <template name="Injector" value="@dagger.hilt.EntryPoint&#10;@dagger.hilt.InstallIn(dagger.hilt.components.SingletonComponent::class)&#10;private interface Injector {&#10;    fun inject(obj: $CLASS$)&#10;}&#10;" description="Hilt Injector" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS" expression="kotlinClassName()" defaultValue="&quot;Object&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+</templateSet>
